@@ -1,4 +1,5 @@
 first repo	
 something
 third changes
-
+Setting up upstream if not existing:
+ git push --set-upstream origin testing
